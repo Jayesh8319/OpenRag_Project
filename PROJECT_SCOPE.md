@@ -21,6 +21,13 @@ This is an original learning project inspired by OpenRAG's public overview, not 
 - A generated Next.js application with a project-specific landing page
 - Build and lint checks pass for the frontend
 
+## Day 3 acceptance criteria
+
+- A responsive frontend workspace with document and chat panels
+- Users can select and remove PDF or text files in the browser preview
+- The UI clearly indicates that file selection is local and upload/chat are not connected yet
+- Frontend lint and production build pass
+
 ## Out of scope for this MVP
 
 - Enterprise multi-tenancy and role administration
